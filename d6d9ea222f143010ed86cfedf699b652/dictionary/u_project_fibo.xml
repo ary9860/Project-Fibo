@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Project - Fibo" max_length="40" name="u_project_fibo" type="collection">
+        <element label="Number" mandatory="true" max_length="40" name="u_number" type="integer"/>
+        <element label="Response" max_length="1000000" name="u_response" read_only="true" type="string_full_utf8"/>
+    </element>
+</database>

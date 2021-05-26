@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_number" label="Number" language="en" table="u_project_fibo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>u_project_fibo</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-26 16:36:48</sys_created_on>
+            <sys_id>4c6aaae62f143010ed86cfedf699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="FiboTest" source="d6d9ea222f143010ed86cfedf699b652">d6d9ea222f143010ed86cfedf699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FiboTest">d6d9ea222f143010ed86cfedf699b652</sys_scope>
+            <sys_update_name>sys_documentation_u_project_fibo_u_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-26 16:36:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
